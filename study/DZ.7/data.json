@@ -1,0 +1,53 @@
+{
+  "Еда": {
+    "100": {
+      "question": "carrot",
+      "answer": "морковь",
+      "asked": false
+    },
+    "200": {
+      "question": "potato",
+      "answer": "картофель",
+      "asked": false
+    },
+    "300": {
+      "question": "onion",
+      "answer": "лук",
+      "asked": false
+    }
+  },
+  "Одежда": {
+    "100": {
+      "question": "coat",
+      "answer": "пальто",
+      "asked": false
+    },
+    "200": {
+      "question": "sweater",
+      "answer": "джемпер",
+      "asked": false
+    },
+    "300": {
+      "question": "hoody",
+      "answer": "толстовка",
+      "asked": false
+    }
+  },
+  "Транспорт": {
+    "100": {
+      "question": "bike",
+      "answer": "велосипед",
+      "asked": false
+    },
+    "200": {
+      "question": "train",
+      "answer": "поезд",
+      "asked": false
+    },
+    "300": {
+      "question": "tractor",
+      "answer": "тягач",
+      "asked": false
+    }
+  }
+}
